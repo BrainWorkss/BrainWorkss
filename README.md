@@ -10,7 +10,7 @@
 - 🧑‍💻 You can check out my portfolio (coming soon )
 - ⚡ Fun fact: its all 0's and 1's 
 
-- Git
+  
   ![Kasolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasolo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!---
